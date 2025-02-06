@@ -37,11 +37,11 @@ The **REVER** **Size Suggestion Module** fetches and displays size recommendatio
 1. Log in to your **PrestaShop Admin Panel.**
 2. Go to **Modules > Module Manager.**
 3. Click Upload a Module and select the **Size Suggestion Module** .zip file (REVERSizeSuggestion.zip)
-4. &#x20;Once the upload is complete, the module will be active, and size recommendations will appear on product pages where REVER size suggestions apply.&#x20;
+4. &#x20;Once the upload is complete, the module will be active, and size recommendations will **appear** on **product pages** where _REVER size suggestions apply_.&#x20;
 
 ## 3. Troubleshooting & Support
 
-If the size recommendations don’t appear:
+If the size recommendations don’t appear ... :
 
 * Ensure the module is listed under Modules > Module Manager, search for (REVERSizeSuggestion).
 * Clear the cache (Advanced Parameters > Performance > Clear Cache).
