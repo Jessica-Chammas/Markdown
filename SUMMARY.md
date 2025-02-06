@@ -1,6 +1,6 @@
 # Table of contents
 
-* [REVER's Size Suggestion Script - Integration Guide](README.md)
+* [REVER's PrestaShop Size Suggestion Module - Integration Guide](README.md)
 
 ## Getting Started
 
